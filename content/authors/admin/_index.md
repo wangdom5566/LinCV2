@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Phd Student in Sociology
+role: Incoming Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,7 +48,7 @@ education:
     button:
       text: ''
       url: ''
-  - area: Master Sociology
+  - area: MA Sociology
     institution: National TsingHua University
     date_start: 2016-09-01
     date_end: 2020-07-31
@@ -79,7 +79,7 @@ work:
     date_end: '2022-06-30'
     summary: |2-
       Responsibilities include:
-      - Leading practice lessons of Statistics 
+      - Teaching practice lesson of Statistics 
 
   - position: Research Assistant
     company_name: Department of Computer Science and Information Technology, National Chung Cheng University
@@ -90,8 +90,6 @@ work:
     summary: |
       Responsibilities include:
       - Textming using term co-occurrence network
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -132,8 +130,6 @@ languages:
     percent: 75
   - name: Chinese
     percent: 100
-  - name: 
-    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
