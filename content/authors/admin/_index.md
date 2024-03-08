@@ -21,7 +21,7 @@ role: Incoming Phd Student in Sociology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Departmeent of Sociology at Virginia Tech
+  - name: Department of Sociology at Virginia Tech
     url: https://liberalarts.vt.edu/departments-and-schools/department-of-sociology.html
 
 # Social network links
@@ -56,9 +56,9 @@ education:
       GPA: 3.8/4.3
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collective Behavior and Social Network:Experimental Approach
+      - Sociological Methodology
+      - Advanced Quantitative Methods for Data Analysis
   - area: MA Contemporary China Studies
     institution: National TsingHua University
     date_start: 2016-09-01
@@ -67,9 +67,9 @@ education:
       GPA: 3.8/4.3
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - The China Boom:Origins, Crisis, and Global Effects
+      - Contentious Politics and Popular protest in China
+      - Government and Politics of China
 work:
   - position: Teaching Assistant, Advanced Quantitative Methods for Data Analysis (Ph.D. level)
     company_name: National TsingHua University
@@ -79,9 +79,8 @@ work:
     date_end: '2022-06-30'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leading practice lessons of Statistics 
+
   - position: Research Assistant
     company_name: Department of Computer Science and Information Technology, National Chung Cheng University
     company_url: ''
@@ -133,8 +132,8 @@ languages:
     percent: 75
   - name: Chinese
     percent: 100
-  - name: ''
-    percent: ''
+  - name: 
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
